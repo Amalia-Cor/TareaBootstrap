@@ -1,0 +1,73 @@
+<%@ page language="java" contentType="text/html; charset=ISO-8859-1"
+    pageEncoding="ISO-8859-1"%>
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/css/bootstrap.min.css" integrity="sha384-TX8t27EcRE3e/ihU7zmQxVncDAy5uIKz4rEkgIXeMed4M0jlfIDPvg6uqKI2xXr2" crossorigin="anonymous">
+
+    <title>Hello, world!</title>
+  </head>
+  <body>
+    <h1 class="text-center">Hello, world!</h1>
+
+	 <div class="container">
+
+    <div class="row">
+      <div class="col-lg-4"  style="background-color:#aaa">
+        <h1>Columna 1</h1> 
+        <p>Esto es una prueba de bootstrap.</p>
+      </div>
+      <div class="col-lg-4"  style="background-color:#bbb">
+        <h1>Columna 2</h1> 
+        <p>Esto es una prueba de bootstrap.</p>
+      </div>
+      <div class="col-lg-4"  style="background-color:#ccc">
+        <h1>Columna 3</h1> 
+        <p>Esto es una prueba de bootstrap.</p>
+      </div>
+    </div>
+  </div> 
+
+  <div class="container-fluid">
+
+    <div class="row">
+      <div class="col-lg-4"  style="background-color:#aaa">
+        <h1>Columna 1</h1> 
+        <p>Esto es una prueba de bootstrap.</p>
+      </div>
+      <div class="col-lg-4"  style="background-color:#bbb">
+        <h1>Columna 2</h1> 
+        <p>Esto es una prueba de bootstrap.</p>
+      </div>
+      <div class="col-lg-4"  style="background-color:#ccc">
+        <h1>Columna 3</h1> 
+        <p>Esto es una prueba de bootstrap.</p>
+      </div>
+	
+	</div>
+	</div>
+	<div class="container">
+  <div class="row">
+    <div class="col-sm" style="background-color: red">
+      One of three columns
+    </div>
+    <div class="col-sm" style="background-color: blue">
+      One of three columns
+    </div>
+    <div class="col-sm" style="background-color: red">
+      One of three columns
+    </div>
+  </div>
+</div>
+    <!-- Option 2: jQuery, Popper.js, and Bootstrap JS
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js" integrity="sha384-9/reFTGAW83EW2RDu2S0VKaIzap3H66lZH81PoYlFhbGU+6BZp6G7niu735Sk7lN" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/js/bootstrap.min.js" integrity="sha384-w1Q4orYjBQndcko6MimVbzY0tgp4pWB4lZ7lr30WKz0vr/aWKhXdBNmNb5D92v7s" crossorigin="anonymous"></script>
+    -->
+  </body>
+</html>
